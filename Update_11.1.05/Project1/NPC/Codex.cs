@@ -184,4 +184,8 @@ public class Codex
         Open = false;
         currentFrame = 0f;
     }
+
+    // สำหรับ SaveSystem
+    public IEnumerable<Note> GetPlayerNotesSnapshot() => playerNotes.ToArray();
+    public IEnumerable<string> GetNPCLinesSnapshot() => entries.Select(n => n.Text).ToArray();
 }

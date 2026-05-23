@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOKd/tABXNM=",
+  "dgSpecHash": "PnK7Ji1Tdwk=",
   "success": true,
-  "projectFilePath": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Project1.csproj",
+  "projectFilePath": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/Project1.csproj",
   "expectedPackageFiles": [
     "/Users/jirutjareewit/.nuget/packages/autofac/5.2.0/autofac.5.2.0.nupkg.sha512",
     "/Users/jirutjareewit/.nuget/packages/monogame.content.builder.task/3.8.4.1/monogame.content.builder.task.3.8.4.1.nupkg.sha512",

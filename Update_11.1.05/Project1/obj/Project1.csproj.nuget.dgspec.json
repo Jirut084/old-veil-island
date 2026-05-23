@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Project1.csproj": {}
+    "/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/Project1.csproj": {}
   },
   "projects": {
-    "/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Project1.csproj": {
+    "/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Project1.csproj",
+        "projectUniqueName": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Project1.csproj",
+        "projectPath": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/Project1.csproj",
         "packagesPath": "/Users/jirutjareewit/.nuget/packages/",
-        "outputPath": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/obj/",
+        "outputPath": "/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jirutjareewit/.nuget/NuGet/NuGet.Config"

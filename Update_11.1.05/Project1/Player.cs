@@ -98,7 +98,6 @@ namespace Project1
         float walkWoodInterval = 0.36f;
 
         float walkTimer = 0f;
-        float healthRegenTimer = 0f;
 
         public Player(GameManager gm, Texture2D tex, SpriteFont font)
         {
@@ -119,10 +118,6 @@ namespace Project1
             {
                 currentSpeed = debuffedSpeed;
                 speedDebuffTimer -= dt;
-            }
-            else
-            {
-                currentSpeed = Speed;
             }
 
             if (IsTalking) return;

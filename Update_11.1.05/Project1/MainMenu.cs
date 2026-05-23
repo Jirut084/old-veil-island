@@ -1,7 +1,6 @@
-﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using System;
 
 namespace Project1
 {
@@ -10,16 +9,16 @@ namespace Project1
         GameManager gm;
 
         Texture2D bg;
-
         Texture2D texLogo;
         Texture2D texStart, texStartPressed;
+        Texture2D texContinue, texContinuePressed;
         Texture2D texTutorial, texTutorialPressed;
         Texture2D texCredit, texCreditPressed;
         Texture2D texExit, texExitPressed;
 
         public float Alpha = 0f;
 
-        string[] menuItems = new string[] { "Start", "Tutorial", "Credit", "Exit" };
+        string[] menuItems = new string[] { "Start", "Continue", "Tutorial", "Credit", "Exit" };
         int selectedIndex = 0;
         KeyboardState prevKeyState;
 
@@ -27,27 +26,29 @@ namespace Project1
 
         Vector2[] buttonPositions;
 
-        // scale สำหรับ logo
-
-
-        public MainMenu(GameManager gm, Texture2D bg, Texture2D texLogo,Texture2D texStart, Texture2D texStartPressed,Texture2D texTutorial, Texture2D texTutorialPressed,Texture2D texCredit, Texture2D texCreditPressed,Texture2D texExit, Texture2D texExitPressed)
+        public MainMenu(GameManager gm, Texture2D bg, Texture2D texLogo,
+            Texture2D texStart, Texture2D texStartPressed,
+            Texture2D texContinue, Texture2D texContinuePressed,
+            Texture2D texTutorial, Texture2D texTutorialPressed,
+            Texture2D texCredit, Texture2D texCreditPressed,
+            Texture2D texExit, Texture2D texExitPressed)
         {
             this.gm = gm;
             this.bg = bg;
             this.texLogo = texLogo;
-
             this.texStart = texStart; this.texStartPressed = texStartPressed;
+            this.texContinue = texContinue; this.texContinuePressed = texContinuePressed;
             this.texTutorial = texTutorial; this.texTutorialPressed = texTutorialPressed;
             this.texCredit = texCredit; this.texCreditPressed = texCreditPressed;
             this.texExit = texExit; this.texExitPressed = texExitPressed;
 
-            int startY = 350;
-            int gap = 80;
-            buttonPositions = new Vector2[4];
-            for (int i = 0; i < 4; i++)
+            int startY = 320;
+            int gap = 70;
+            buttonPositions = new Vector2[menuItems.Length];
+            for (int i = 0; i < menuItems.Length; i++)
                 buttonPositions[i] = new Vector2(100, startY + i * gap);
         }
-        
+
 
         public void Start()
         {
@@ -84,28 +85,32 @@ namespace Project1
 
                     if (actionOnFadeOut == "Start")
                     {
-                        gm.Player.ResetAll();
-                        gm.Inventory.Clear();
-                        gm.Inventory.KeyItems.Clear();
-                        gm.DayManager.ResetAll();
-                        gm.NpcManager.ResetDailyNPCDialogue();
-                        gm.Level.Reset();
-                        gm.Codex.Reset();
-                        gm.campfire.Reset();
-                        gm.Hud.Reset();
-
+                        ResetGameState();
+                        gm.SaveSystem?.Delete();
                         gm.StartOpeningScene();
-                        //gm.StartBasement();
-                        //gm.Player.Position = gm.basement.PlayerStart;
                         gm.InMainMenu = false;
                         gm.InLighthouse = false;
                     }
-                    if (actionOnFadeOut == "Credit")
+                    else if (actionOnFadeOut == "Continue")
+                    {
+                        ResetGameState();
+                        if (gm.SaveSystem != null && gm.SaveSystem.Load())
+                        {
+                            gm.InMainMenu = false;
+                            gm.StartBasement();
+                        }
+                        else
+                        {
+                            gm.Log("No save file.");
+                            gm.fader.FadingIn = true; // กลับไป MainMenu
+                        }
+                    }
+                    else if (actionOnFadeOut == "Credit")
                     {
                         gm.CreditScene.Start();
                         gm.CreditScene.Active = true;
                     }
-                    if (actionOnFadeOut == "Tutorial")
+                    else if (actionOnFadeOut == "Tutorial")
                     {
                         gm.TutorialScene.Start();
                         gm.TutorialScene.Active = true;
@@ -118,36 +123,29 @@ namespace Project1
             {
                 if (ks.IsKeyDown(Keys.Down) && prevKeyState.IsKeyUp(Keys.Down))
                 {
-                    selectedIndex++;
-                    if (selectedIndex >= menuItems.Length) selectedIndex = 0;
+                    do { selectedIndex = (selectedIndex + 1) % menuItems.Length; }
+                    while (IsItemDisabled(selectedIndex));
                 }
                 if (ks.IsKeyDown(Keys.Up) && prevKeyState.IsKeyUp(Keys.Up))
                 {
-                    selectedIndex--;
-                    if (selectedIndex < 0) selectedIndex = menuItems.Length - 1;
+                    do { selectedIndex = (selectedIndex - 1 + menuItems.Length) % menuItems.Length; }
+                    while (IsItemDisabled(selectedIndex));
                 }
                 if (Alpha >= 1f && !gm.fader.FadingOut)
                 {
                     if (ks.IsKeyDown(Keys.Enter) && prevKeyState.IsKeyUp(Keys.Enter))
                     {
-                        if (menuItems[selectedIndex] == "Start")
-                        {
-                            actionOnFadeOut = "Start";
-                            gm.fader.FadingOut = true;
-                        }
-                        else if (menuItems[selectedIndex] == "Tutorial")
-                        {
-                            actionOnFadeOut = "Tutorial";
-                            gm.fader.FadingOut = true;
-                        }
-                        else if (menuItems[selectedIndex] == "Credit")
-                        {
-                            actionOnFadeOut = "Credit";
-                            gm.fader.FadingOut = true;
-                        }
-                        else if (menuItems[selectedIndex] == "Exit")
+                        string item = menuItems[selectedIndex];
+                        if (IsItemDisabled(selectedIndex)) return;
+
+                        if (item == "Exit")
                         {
                             gm.root.Exit();
+                        }
+                        else
+                        {
+                            actionOnFadeOut = item;
+                            gm.fader.FadingOut = true;
                         }
                     }
                 }
@@ -156,40 +154,52 @@ namespace Project1
             prevKeyState = ks;
         }
 
+        bool IsItemDisabled(int i)
+        {
+            if (menuItems[i] == "Continue")
+                return gm.SaveSystem == null || !gm.SaveSystem.HasSave;
+            return false;
+        }
 
-        //float logoScale = 1f;
-        //public void SetLogoScale(float scale)
-        //{
-        //    logoScale = scale;
-        //}
+        void ResetGameState()
+        {
+            gm.Player.ResetAll();
+            gm.Inventory.Clear();
+            gm.Inventory.KeyItems.Clear();
+            gm.DayManager.ResetAll();
+            gm.NpcManager.ResetDailyNPCDialogue();
+            gm.Level.Reset();
+            gm.Codex.Reset();
+            gm.campfire.Reset();
+            gm.Hud.Reset();
+        }
+
         public void Draw(SpriteBatch sb, int screenW, int screenH)
         {
-            // วาด background
             if (bg != null)
                 sb.Draw(bg, new Rectangle(0, 0, screenW, screenH), Color.White * Alpha);
 
-            // วาด logo ซ้ายบน
             if (texLogo != null)
             {
                 float logoScale = 2.2f;
-                Vector2 logoOrigin = Vector2.Zero;
-                Vector2 logoPos = new Vector2(50, 70); // ซ้ายบน
-                sb.Draw(texLogo, logoPos, null, Color.White * Alpha, 0f, logoOrigin, logoScale, SpriteEffects.None, 0f);
+                Vector2 logoPos = new Vector2(50, 70);
+                sb.Draw(texLogo, logoPos, null, Color.White * Alpha, 0f, Vector2.Zero, logoScale, SpriteEffects.None, 0f);
             }
 
-            // วาดปุ่ม
             for (int i = 0; i < menuItems.Length; i++)
             {
-                Texture2D texToDraw = i switch
+                Texture2D texToDraw = menuItems[i] switch
                 {
-                    0 => (i == selectedIndex ? texStartPressed : texStart),
-                    1 => (i == selectedIndex ? texTutorialPressed : texTutorial),
-                    2 => (i == selectedIndex ? texCreditPressed : texCredit),
-                    3 => (i == selectedIndex ? texExitPressed : texExit),
-                    _ => texStart
+                    "Start"    => (i == selectedIndex ? texStartPressed : texStart),
+                    "Continue" => (i == selectedIndex ? texContinuePressed : texContinue),
+                    "Tutorial" => (i == selectedIndex ? texTutorialPressed : texTutorial),
+                    "Credit"   => (i == selectedIndex ? texCreditPressed : texCredit),
+                    "Exit"     => (i == selectedIndex ? texExitPressed : texExit),
+                    _          => texStart
                 };
 
-                sb.Draw(texToDraw, buttonPositions[i], null, Color.White * Alpha, 0f, Vector2.Zero, 1.5f, SpriteEffects.None, 0f);
+                float a = Alpha * (IsItemDisabled(i) ? 0.4f : 1f);
+                sb.Draw(texToDraw, buttonPositions[i], null, Color.White * a, 0f, Vector2.Zero, 1.5f, SpriteEffects.None, 0f);
             }
         }
 

@@ -180,7 +180,12 @@ namespace Project1
             prepareroom = new PrepRoom(this, content.Load<Texture2D>("preparezone_0"));
 
             // MAIN MENU
-            MainMenu = new MainMenu(this, content.Load<Texture2D>("bg "), TexLogo, TexStart, TexStart_pressed, TexTuto, TexTuto_pressed, TexCredit, TexCredit_pressed, TexExit, TexExit_pressed);
+            MainMenu = new MainMenu(this, content.Load<Texture2D>("bg "), TexLogo,
+                TexStart, TexStart_pressed,
+                TexContinue, TexContinue_pressed,
+                TexTuto, TexTuto_pressed,
+                TexCredit, TexCredit_pressed,
+                TexExit, TexExit_pressed);
             CreditScene = new Credit(this, DefaultFont, content.Load<Texture2D>("bg "), WhitePixel);
             TutorialScene = new Tutorial(this, DefaultFont, content.Load<Texture2D>("bg "), TexKB, WhitePixel);
             // Systems
@@ -238,6 +243,10 @@ namespace Project1
                 Player.Position = new Vector2(basement.LightHouseDoor.X + basement.LightHouseDoor.Width / 2 + 5, basement.LightHouseDoor.Y + basement.LightHouseDoor.Height + 10);
             else
                 Player.Position = basement.PlayerStart;
+
+            // Auto-save เฉพาะตอนกลับจากด่าน (มี progress ใหม่)
+            if (fromPrep || fromLighthouse)
+                SaveSystem?.Save();
         }
 
 

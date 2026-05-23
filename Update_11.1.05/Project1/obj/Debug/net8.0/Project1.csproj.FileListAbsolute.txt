@@ -2028,3 +2028,37 @@ C:/Users/pohug/Downloads/Update_11.2.0.5/Update_11.1.05/Project1/bin/Debug/net8.
 /Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.csproj.Up2Date
 /Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.genruntimeconfig.cache
 /Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/obj/Debug/net8.0/ref/Project1.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/Project1
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/Project1.deps.json
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/Project1.runtimeconfig.json
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/Project1.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/Project1.pdb
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/Autofac.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/MonoGame.Extended.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/MonoGame.Extended.Content.Pipeline.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/MonoGame.Framework.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/NVorbis.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/android-arm/native/libopenal.so
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/android-arm64/native/libopenal.so
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/android-x64/native/libopenal.so
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/android-x86/native/libopenal.so
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/ios-arm64/native/libopenal.a
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/iossimulator-arm64/native/libopenal.a
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/iossimulator-x64/native/libopenal.a
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/linux-arm64/native/libopenal.so
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/osx/native/libopenal.dylib
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/win-x64/native/openal.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.csproj.AssemblyReference.cache
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.AssemblyInfoInputs.cache
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.AssemblyInfo.cs
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.csproj.Up2Date
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/refint/Project1.dll
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.pdb
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/Project1.genruntimeconfig.cache
+/Users/jirutjareewit/Desktop/Update_11.2_final.1/old veil/Update_11.1.05/Project1/obj/Debug/net8.0/ref/Project1.dll

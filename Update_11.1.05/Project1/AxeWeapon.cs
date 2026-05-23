@@ -19,7 +19,6 @@ namespace Project1
         Texture2D tex;
         Vector2 origin;
 
-        bool interactingWithFence = false;
         float interactionProgress = 0f;
         float interactionTime = 2f; // ต้องกด E ต่อเนื่องกี่วินาที
 
