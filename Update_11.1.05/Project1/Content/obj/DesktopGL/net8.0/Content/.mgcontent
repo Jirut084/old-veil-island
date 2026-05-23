@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/AmmoPickup.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/ani_campfire.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_continue_pressed.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_continue.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_credit_pressed.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_credit.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_exit_pressed.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_exit.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_mainmenu_pressed.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_mainmenu.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_start_pressed.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_start.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_tutorial_pressed.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/B_tutorial.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/basement.mp3</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/bg .png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/cha_walk_sheet_2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/CodexBG.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/DefaultFont.spritefont</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Enemy01.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/fench1.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/fench2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/floor1_1.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/floor1_4.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/floor2-2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/GrassTile.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/gunshot.wav</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Henmil.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/hit.wav</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/HUD_Icons.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/KB.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/lighthouse_out_2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/lighthouse_out_3.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/lighthouse_out.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/logo.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/mainlevel.mp3</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/mainmenu.mp3</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/map1_1.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/map2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/monster1_1_walk.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/monster4_1_walk.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/note1.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/note2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/note3.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/note4.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/note5.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/NPC01.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/part1.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/part2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/part3.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/part4.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/part5.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/pickup.wav</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/pistol.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/preparezone_0.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/rock0001.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/rock0002.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/rock0004.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/RoomTile.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Sprite_axe.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Sprite_campfire2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Sprite_scissors.PNG</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Sprite_wood.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Sprite_wrench.PNG</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/teasureBox.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/Trap.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/tree1.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/tree2.png</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/walk_dirt.wav</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/walk_wood.wav</File>
+    <File>/Users/jirutjareewit/Desktop/Update_11.2_final.1/Update_11.1.05/Project1/Content/WeaponBullet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

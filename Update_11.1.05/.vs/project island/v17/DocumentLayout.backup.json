@@ -1,0 +1,674 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\enemy3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\enemy3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\stage and day\\fixedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\stage and day\\fixedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\enemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\stage and day\\procedurallevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\stage and day\\procedurallevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\stage and day\\preproom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\stage and day\\preproom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\npc\\npcmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\npc\\npcmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\minimap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\stage and day\\daymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\stage and day\\daymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\content\\multiplylight.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\content\\multiplylight.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\gameroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\gameoverscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\gameoverscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\procedurallevel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\procedurallevel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\stage and day\\lighthouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\stage and day\\lighthouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\stage and day\\basement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\stage and day\\basement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\opening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\opening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\trapbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\trapbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\screenfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\screenfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\treasurebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\treasurebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\axeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\axeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\npc\\codex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\npc\\codex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\ammopickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\ammopickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\content\\obj\\desktopgl\\.mgcontent||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\content\\obj\\desktopgl\\.mgcontent||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|c:\\users\\pohug\\downloads\\update_11.2.0.5\\update_11.1.05\\project1\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E93A4-05E6-4B41-A933-B098F576DBFC}|Project1\\Project1.csproj|solutionrelative:project1\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy3.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Enemy3.cs",
+              "RelativeDocumentMoniker": "Project1\\Enemy3.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Enemy3.cs",
+              "RelativeToolTip": "Project1\\Enemy3.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA8wKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:58:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy2.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Enemy2.cs",
+              "RelativeDocumentMoniker": "Project1\\Enemy2.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Enemy2.cs",
+              "RelativeToolTip": "Project1\\Enemy2.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:38:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:56:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Projectile.cs",
+              "RelativeDocumentMoniker": "Project1\\Projectile.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Projectile.cs",
+              "RelativeToolTip": "Project1\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T04:33:19.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Tutorial.cs",
+              "RelativeDocumentMoniker": "Project1\\Tutorial.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Tutorial.cs",
+              "RelativeToolTip": "Project1\\Tutorial.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:05:25.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\GameManager.cs",
+              "RelativeDocumentMoniker": "Project1\\GameManager.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\GameManager.cs",
+              "RelativeToolTip": "Project1\\GameManager.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAIAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:12:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Inventory.cs",
+              "RelativeDocumentMoniker": "Project1\\Inventory.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Inventory.cs",
+              "RelativeToolTip": "Project1\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:52:14.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": ".mgcontent",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Content\\obj\\DesktopGL\\.mgcontent",
+              "RelativeDocumentMoniker": "Project1\\Content\\obj\\DesktopGL\\.mgcontent",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Content\\obj\\DesktopGL\\.mgcontent",
+              "RelativeToolTip": "Project1\\Content\\obj\\DesktopGL\\.mgcontent",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-01T05:56:43.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ending.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Ending.cs",
+              "RelativeDocumentMoniker": "Project1\\Ending.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Ending.cs",
+              "RelativeToolTip": "Project1\\Ending.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:46:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AxeWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\AxeWeapon.cs",
+              "RelativeDocumentMoniker": "Project1\\AxeWeapon.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\AxeWeapon.cs",
+              "RelativeToolTip": "Project1\\AxeWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:06:07.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TreasureBox.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\TreasureBox.cs",
+              "RelativeDocumentMoniker": "Project1\\TreasureBox.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\TreasureBox.cs",
+              "RelativeToolTip": "Project1\\TreasureBox.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:49:25.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Minimap.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Minimap.cs",
+              "RelativeDocumentMoniker": "Project1\\Minimap.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Minimap.cs",
+              "RelativeToolTip": "Project1\\Minimap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:03:38.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProceduralLevel.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\ProceduralLevel.cs",
+              "RelativeDocumentMoniker": "Project1\\Stage and Day\\ProceduralLevel.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\ProceduralLevel.cs",
+              "RelativeToolTip": "Project1\\Stage and Day\\ProceduralLevel.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAewHUBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:17:13.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProceduralLevel2.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\ProceduralLevel2.cs",
+              "RelativeDocumentMoniker": "Project1\\ProceduralLevel2.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\ProceduralLevel2.cs",
+              "RelativeToolTip": "Project1\\ProceduralLevel2.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:31:04.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameOverScene.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\GameOverScene.cs",
+              "RelativeDocumentMoniker": "Project1\\GameOverScene.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\GameOverScene.cs",
+              "RelativeToolTip": "Project1\\GameOverScene.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:49:21.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Player.cs",
+              "RelativeDocumentMoniker": "Project1\\Player.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Player.cs",
+              "RelativeToolTip": "Project1\\Player.cs",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAwwMoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:15:35.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickupItem.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\PickupItem.cs",
+              "RelativeDocumentMoniker": "Project1\\PickupItem.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\PickupItem.cs",
+              "RelativeToolTip": "Project1\\PickupItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:40:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\HUD.cs",
+              "RelativeDocumentMoniker": "Project1\\HUD.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\HUD.cs",
+              "RelativeToolTip": "Project1\\HUD.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswHQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:19:41.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Opening.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Opening.cs",
+              "RelativeDocumentMoniker": "Project1\\Opening.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Opening.cs",
+              "RelativeToolTip": "Project1\\Opening.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:39:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AmmoPickup.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\AmmoPickup.cs",
+              "RelativeDocumentMoniker": "Project1\\AmmoPickup.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\AmmoPickup.cs",
+              "RelativeToolTip": "Project1\\AmmoPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:59:03.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrepRoom.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\PrepRoom.cs",
+              "RelativeDocumentMoniker": "Project1\\Stage and Day\\PrepRoom.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\PrepRoom.cs",
+              "RelativeToolTip": "Project1\\Stage and Day\\PrepRoom.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:41:24.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixedObject.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\FixedObject.cs",
+              "RelativeDocumentMoniker": "Project1\\Stage and Day\\FixedObject.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\FixedObject.cs",
+              "RelativeToolTip": "Project1\\Stage and Day\\FixedObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:51:07.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Project1\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\MainMenu.cs",
+              "RelativeToolTip": "Project1\\MainMenu.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:09:08.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Campfire.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Campfire.cs",
+              "RelativeDocumentMoniker": "Project1\\Campfire.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Campfire.cs",
+              "RelativeToolTip": "Project1\\Campfire.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwJUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:05:35.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameRoot.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\GameRoot.cs",
+              "RelativeDocumentMoniker": "Project1\\GameRoot.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\GameRoot.cs",
+              "RelativeToolTip": "Project1\\GameRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:03:51.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Basement.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\Basement.cs",
+              "RelativeDocumentMoniker": "Project1\\Stage and Day\\Basement.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\Basement.cs",
+              "RelativeToolTip": "Project1\\Stage and Day\\Basement.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:27:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Lighthouse.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\Lighthouse.cs",
+              "RelativeDocumentMoniker": "Project1\\Stage and Day\\Lighthouse.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\Lighthouse.cs",
+              "RelativeToolTip": "Project1\\Stage and Day\\Lighthouse.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:42:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pause.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Pause.cs",
+              "RelativeDocumentMoniker": "Project1\\Pause.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Pause.cs",
+              "RelativeToolTip": "Project1\\Pause.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:05:42.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Note.cs",
+              "RelativeDocumentMoniker": "Project1\\Note.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Note.cs",
+              "RelativeToolTip": "Project1\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:24:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\InputManager.cs",
+              "RelativeDocumentMoniker": "Project1\\InputManager.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\InputManager.cs",
+              "RelativeToolTip": "Project1\\InputManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:26:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Enemy.cs",
+              "RelativeDocumentMoniker": "Project1\\Enemy.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Enemy.cs",
+              "RelativeToolTip": "Project1\\Enemy.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:19:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Codex.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\NPC\\Codex.cs",
+              "RelativeDocumentMoniker": "Project1\\NPC\\Codex.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\NPC\\Codex.cs",
+              "RelativeToolTip": "Project1\\NPC\\Codex.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:25:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Camera.cs",
+              "RelativeDocumentMoniker": "Project1\\Camera.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Camera.cs",
+              "RelativeToolTip": "Project1\\Camera.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:46:09.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TrapBear.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\TrapBear.cs",
+              "RelativeDocumentMoniker": "Project1\\TrapBear.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\TrapBear.cs",
+              "RelativeToolTip": "Project1\\TrapBear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:56:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Credit.cs",
+              "RelativeDocumentMoniker": "Project1\\Credit.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Credit.cs",
+              "RelativeToolTip": "Project1\\Credit.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:05:47.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NPCManager.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\NPC\\NPCManager.cs",
+              "RelativeDocumentMoniker": "Project1\\NPC\\NPCManager.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\NPC\\NPCManager.cs",
+              "RelativeToolTip": "Project1\\NPC\\NPCManager.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:30:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DayManager.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\DayManager.cs",
+              "RelativeDocumentMoniker": "Project1\\Stage and Day\\DayManager.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Stage and Day\\DayManager.cs",
+              "RelativeToolTip": "Project1\\Stage and Day\\DayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:22:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MultiplyLight.fx",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Content\\MultiplyLight.fx",
+              "RelativeDocumentMoniker": "Project1\\Content\\MultiplyLight.fx",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\Content\\MultiplyLight.fx",
+              "RelativeToolTip": "Project1\\Content\\MultiplyLight.fx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-26T01:50:38.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScreenFader.cs",
+              "DocumentMoniker": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\ScreenFader.cs",
+              "RelativeDocumentMoniker": "Project1\\ScreenFader.cs",
+              "ToolTip": "C:\\Users\\pohug\\Downloads\\Update_11.2.0.5\\Update_11.1.05\\Project1\\ScreenFader.cs",
+              "RelativeToolTip": "Project1\\ScreenFader.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:28:09.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/pohug/Downloads/project island 29/project island 26 Stang new/project island2/project island/Project1/Content/MultiplyLight.fx</SourceFile>
+  <SourceTime>2025-09-25T04:50:42+07:00</SourceTime>
+  <DestFile>C:/Users/pohug/Downloads/project island 29/project island 26 Stang new/project island2/project island/Project1/Content/bin/DesktopGL/MultiplyLight.xnb</DestFile>
+  <DestTime>2025-09-30T02:45:31.168604+07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-06-02T17:31:02+07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T17:31:02+07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

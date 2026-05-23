@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/pohug/Downloads/project island 610/Project1/Content/mainlevel.mp3</SourceFile>
+  <SourceTime>2025-10-07T00:56:14.5219154+07:00</SourceTime>
+  <DestFile>C:/Users/pohug/Downloads/project island 610/Project1/Content/bin/DesktopGL/Content/mainlevel.xnb</DestFile>
+  <DestTime>2025-10-07T01:10:06.6604464+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-06-02T17:31:02+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-06-02T17:31:02+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/pohug/Downloads/project island 610/Project1/Content/bin/DesktopGL/Content/mainlevel.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
